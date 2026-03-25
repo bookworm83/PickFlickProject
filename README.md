@@ -1,3 +1,6 @@
+Tableau: https://public.tableau.com/app/profile/madalina.petraru/vizzes 
+Confluence: https://madalinapetraru.atlassian.net/wiki/spaces/~63c57dcd2c6573abb08ca968/pages/98325/PickFlick+Stop+scrolling.+Start+watching?atlOrigin=eyJpIjoiM2FjN2MxZGQzMWJmNDRlMjhjNzJiYjc5NzUxOTU4YTUiLCJwIjoiYyJ9 
+
 The goal of this project is to analyse a movie database and develop a data-driven approach to help users choose what to watch among highly-rated movies when decision fatigue is high.
 
 I designed rule-based movie recommendations using SQL logic and Python, focusing on explainability rather than machine learning.
